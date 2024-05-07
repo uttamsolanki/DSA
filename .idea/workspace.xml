@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c208b86-9ed6-40f4-aebb-23ed7beabbcd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2WJdJnqNUdS54h5ewrQfcbXL2FJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AccountMerge.executor": "Run",
+    "Application.AlienDictionary.executor": "Run",
+    "Application.BellmonFordAlgo.executor": "Run",
+    "Application.BipartiteGraph.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.CanConvertString.executor": "Run",
+    "Application.CheapestWithKstop.executor": "Run",
+    "Application.Combination.executor": "Run",
+    "Application.CombinationII.executor": "Run",
+    "Application.CourseSchedule.executor": "Run",
+    "Application.DetectCycle.executor": "Run",
+    "Application.DijkstraPQ.executor": "Run",
+    "Application.DijkstraPQPath.executor": "Run",
+    "Application.DijkstraSET.executor": "Run",
+    "Application.DisjointAlgoCheck.executor": "Run",
+    "Application.FindCityWithSmallestNeighbor.executor": "Run",
+    "Application.FindEventualSafeNode.executor": "Run",
+    "Application.FindFarmland.executor": "Run",
+    "Application.FindMinHeightTrees.executor": "Run",
+    "Application.FloydWarshall.executor": "Run",
+    "Application.FreedomTrail.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
+    "Application.IsCyclicDirectGraph.executor": "Run",
+    "Application.IslandParimeter.executor": "Run",
+    "Application.KahnAlgo.executor": "Run",
+    "Application.KrushalsAlgo.executor": "Run",
+    "Application.KthPermutation.executor": "Run",
+    "Application.LargestElement.executor": "Run",
+    "Application.LongestIdealString.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Maths.executor": "Run",
+    "Application.McoloringProblem.executor": "Run",
+    "Application.MergeSort.executor": "Run",
+    "Application.MinimumFallingPathSum.executor": "Debug",
+    "Application.MinimumOperation.executor": "Run",
+    "Application.N_Queen.executor": "Run",
+    "Application.NumberOfDistinctIsland.executor": "Run",
+    "Application.NumberOfEnclaves.executor": "Run",
+    "Application.NumberOfIslandII.executor": "Run",
+    "Application.NumberOfOperationToMakeCon.executor": "Run",
+    "Application.NumberOfProvince.executor": "Run",
+    "Application.NumberOfWaysToDest.executor": "Run",
+    "Application.OpenLock.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PathWithMinimumEffort.executor": "Run",
+    "Application.Patterns.executor": "Run",
+    "Application.PelindromPartitioning.executor": "Run",
+    "Application.Permutations.executor": "Run",
+    "Application.PrimsAlgo.executor": "Run",
+    "Application.PrintSubSequence.executor": "Run",
+    "Application.QuickSort.executor": "Run",
+    "Application.RatInMaze.executor": "Run",
+    "Application.RearrangeArrayElements.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.SecondLargestElement.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
+    "Application.ShortedPathInDAG.executor": "Run",
+    "Application.ShortestPathInMaze.executor": "Run",
+    "Application.ShortestPathInUG.executor": "Run",
+    "Application.SubSequenceSumK.executor": "Run",
+    "Application.SubSetSum.executor": "Run",
+    "Application.SubSetSumII.executor": "Run",
+    "Application.Sudoku.executor": "Run",
+    "Application.SurroundedRegions.executor": "Run",
+    "Application.TopologicalSort.executor": "Run",
+    "Application.ValidPath.executor": "Run",
+    "Application.WonderfullSubstring.executor": "Run",
+    "Application.WordLadderI.executor": "Run",
+    "Application.WorldLadderII.executor": "Run",
+    "Application._01_Matrix.executor": "Run",
+    "Application._3JumpFrog.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Codever/DSA",
+    "settings.editor.selected.configurable": "leetcode.id"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.Sorting" />
+      <recent name="com.graph" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="HouseRobberIi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.en.HouseRobberIi" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.en.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_3JumpFrog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.striver._3JumpFrog" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp.striver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._3JumpFrog" />
+        <item itemvalue="Application.HouseRobberIi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c208b86-9ed6-40f4-aebb-23ed7beabbcd" name="Changes" comment="" />
+      <created>1696454554652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696454554652</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/graph/WorldLadderII.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/graph/WorldLadderII.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/graph/WorldLadderII.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/graph/ShortestPathInMaze.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/DailyRandom/FindFarmland.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/DailyRandom/MinimumFallingPathSum.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/DailyRandom/RearrangeArrayElements.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/DailyRandom/CanConvertString.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
