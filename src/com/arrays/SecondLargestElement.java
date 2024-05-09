@@ -2,10 +2,9 @@ package com.arrays;
 
 public class SecondLargestElement {
 
-    public static void better(int[] arr)
-    {
-
-    }
+    /**
+     * Using pointer
+     */
     public static  void optimal(int[] arr)
     {
         int fs = Integer.MAX_VALUE;
