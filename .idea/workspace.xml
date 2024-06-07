@@ -6,7 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="2c208b86-9ed6-40f4-aebb-23ed7beabbcd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/arrays/SecondLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/arrays/SecondLargestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/untitled.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +56,7 @@
     "Application.Combination.executor": "Run",
     "Application.CombinationII.executor": "Run",
     "Application.CommonClass.executor": "Run",
+    "Application.CountSubArraySumK.executor": "Run",
     "Application.CourseSchedule.executor": "Run",
     "Application.DetectCycle.executor": "Run",
     "Application.DijkstraPQ.executor": "Run",
@@ -69,16 +76,23 @@
     "Application.KrushalsAlgo.executor": "Run",
     "Application.KthPermutation.executor": "Run",
     "Application.LargestElement.executor": "Run",
+    "Application.LargestLocalValueMatrix.executor": "Run",
+    "Application.LeadersInArray.executor": "Run",
     "Application.LonegstSubarrayWithSumK.executor": "Run",
+    "Application.LongestConsecutiveSeq.executor": "Run",
     "Application.LongestIdealString.executor": "Run",
+    "Application.LongestSubarrayWithSumK.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MajorityElementNby2.executor": "Run",
     "Application.Maths.executor": "Run",
+    "Application.MaxSubArray.executor": "Run",
     "Application.McoloringProblem.executor": "Run",
     "Application.MergeSort.executor": "Run",
     "Application.MinimumFallingPathSum.executor": "Debug",
     "Application.MinimumOperation.executor": "Run",
     "Application.MoveZero.executor": "Run",
     "Application.N_Queen.executor": "Run",
+    "Application.NextPermutation.executor": "Run",
     "Application.NumberOfDistinctIsland.executor": "Run",
     "Application.NumberOfEnclaves.executor": "Run",
     "Application.NumberOfIslandII.executor": "Run",
@@ -95,15 +109,22 @@
     "Application.PrintSubSequence.executor": "Run",
     "Application.QuickSort.executor": "Run",
     "Application.RatInMaze.executor": "Run",
+    "Application.ReArrangeArray.executor": "Run",
     "Application.RearrangeArrayElements.executor": "Run",
     "Application.RemoveDuplicateInPlace.executor": "Run",
     "Application.ReverseArray.executor": "Run",
+    "Application.RotateMatrix.executor": "Run",
+    "Application.RotateMatrix90.executor": "Run",
     "Application.RotatedArray.executor": "Run",
     "Application.SecondLargestElement.executor": "Run",
     "Application.SelectionSort.executor": "Run",
+    "Application.SetMatrixToZero.executor": "Run",
     "Application.ShortedPathInDAG.executor": "Run",
     "Application.ShortestPathInMaze.executor": "Run",
     "Application.ShortestPathInUG.executor": "Run",
+    "Application.SortArrayZeroOneTwo.executor": "Run",
+    "Application.SpiralTraversal.executor": "Run",
+    "Application.StockBuyAndSell.executor": "Run",
     "Application.SubSequenceSumK.executor": "Run",
     "Application.SubSetSum.executor": "Run",
     "Application.SubSetSumII.executor": "Run",
@@ -116,6 +137,7 @@
     "Application.WorldLadderII.executor": "Run",
     "Application.XOR.executor": "Run",
     "Application._01_Matrix.executor": "Run",
+    "Application._2Sum.executor": "Run",
     "Application._3JumpFrog.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
