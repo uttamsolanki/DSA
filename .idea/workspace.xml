@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2c208b86-9ed6-40f4-aebb-23ed7beabbcd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/untitled.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +25,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -47,16 +43,21 @@
   "keyToString": {
     "Application.AccountMerge.executor": "Run",
     "Application.AlienDictionary.executor": "Run",
+    "Application.ArmstrongNumber.executor": "Run",
     "Application.BellmonFordAlgo.executor": "Run",
     "Application.BipartiteGraph.executor": "Run",
     "Application.BubbleSort.executor": "Run",
+    "Application.BucketSort.executor": "Debug",
     "Application.CanConvertString.executor": "Run",
     "Application.CheapestWithKstop.executor": "Run",
     "Application.CheckIfArraysSorted.executor": "Run",
     "Application.Combination.executor": "Run",
     "Application.CombinationII.executor": "Run",
     "Application.CommonClass.executor": "Run",
+    "Application.CountInversionsInArray.executor": "Run",
     "Application.CountSubArraySumK.executor": "Run",
+    "Application.CountSubArrayWithXORK.executor": "Run",
+    "Application.CountingSort.executor": "Run",
     "Application.CourseSchedule.executor": "Run",
     "Application.DetectCycle.executor": "Run",
     "Application.DijkstraPQ.executor": "Run",
@@ -67,8 +68,10 @@
     "Application.FindEventualSafeNode.executor": "Run",
     "Application.FindFarmland.executor": "Run",
     "Application.FindMinHeightTrees.executor": "Run",
+    "Application.FindRepeatAndMissingNumber.executor": "Run",
     "Application.FloydWarshall.executor": "Run",
     "Application.FreedomTrail.executor": "Run",
+    "Application.HeapSort.executor": "Run",
     "Application.InsertionSort.executor": "Run",
     "Application.IsCyclicDirectGraph.executor": "Run",
     "Application.IslandParimeter.executor": "Run",
@@ -77,19 +80,29 @@
     "Application.KthPermutation.executor": "Run",
     "Application.LargestElement.executor": "Run",
     "Application.LargestLocalValueMatrix.executor": "Run",
+    "Application.LargestSubArraywithSumZero.executor": "Run",
     "Application.LeadersInArray.executor": "Run",
     "Application.LonegstSubarrayWithSumK.executor": "Run",
     "Application.LongestConsecutiveSeq.executor": "Run",
     "Application.LongestIdealString.executor": "Run",
+    "Application.LongestSubArrayAbsDiff.executor": "Run",
     "Application.LongestSubarrayWithSumK.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MajorityElementNby2.executor": "Run",
     "Application.Maths.executor": "Run",
+    "Application.MaxMonthsPnL.executor": "Run",
     "Application.MaxSubArray.executor": "Run",
+    "Application.MaximumProductSubArray.executor": "Run",
     "Application.McoloringProblem.executor": "Run",
+    "Application.MergeOverLappingSubIntervals.executor": "Run",
     "Application.MergeSort.executor": "Run",
+    "Application.MergeTwoSortedArraysWithoutExtraSpace.executor": "Run",
+    "Application.MinIncreamenttoMakeUnique.executor": "Run",
+    "Application.MinimumAbsDifference.executor": "Run",
     "Application.MinimumFallingPathSum.executor": "Debug",
+    "Application.MinimumNoofDaysToMakeBouquets.executor": "Run",
     "Application.MinimumOperation.executor": "Run",
+    "Application.MostProfitAssignmentWork.executor": "Run",
     "Application.MoveZero.executor": "Run",
     "Application.N_Queen.executor": "Run",
     "Application.NextPermutation.executor": "Run",
@@ -101,18 +114,23 @@
     "Application.NumberOfWaysToDest.executor": "Run",
     "Application.OpenLock.executor": "Run",
     "Application.Palindrome.executor": "Run",
+    "Application.PascalTriangle.executor": "Run",
     "Application.PathWithMinimumEffort.executor": "Run",
     "Application.Patterns.executor": "Run",
     "Application.PelindromPartitioning.executor": "Run",
     "Application.Permutations.executor": "Run",
     "Application.PrimsAlgo.executor": "Run",
     "Application.PrintSubSequence.executor": "Run",
+    "Application.QueryKthSmallestTrimmedNumber.executor": "Run",
     "Application.QuickSort.executor": "Run",
+    "Application.RadixSort.executor": "Run",
     "Application.RatInMaze.executor": "Run",
     "Application.ReArrangeArray.executor": "Run",
     "Application.RearrangeArrayElements.executor": "Run",
     "Application.RemoveDuplicateInPlace.executor": "Run",
     "Application.ReverseArray.executor": "Run",
+    "Application.ReversePairs.executor": "Run",
+    "Application.ReverseSubStringBWPair.executor": "Debug",
     "Application.RotateMatrix.executor": "Run",
     "Application.RotateMatrix90.executor": "Run",
     "Application.RotatedArray.executor": "Run",
@@ -125,6 +143,7 @@
     "Application.SortArrayZeroOneTwo.executor": "Run",
     "Application.SpiralTraversal.executor": "Run",
     "Application.StockBuyAndSell.executor": "Run",
+    "Application.SubArraySumDivibleByK.executor": "Run",
     "Application.SubSequenceSumK.executor": "Run",
     "Application.SubSetSum.executor": "Run",
     "Application.SubSetSumII.executor": "Run",
@@ -139,6 +158,9 @@
     "Application._01_Matrix.executor": "Run",
     "Application._2Sum.executor": "Run",
     "Application._3JumpFrog.executor": "Run",
+    "Application._3sum.executor": "Run",
+    "Application._4Sum.executor": "Run",
+    "Application.maximumImportance.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -153,40 +175,6 @@
       <recent name="com.Sorting" />
       <recent name="com.graph" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="HouseRobberIi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.en.HouseRobberIi" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.editor.en.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_3JumpFrog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.striver._3JumpFrog" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dp.striver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application._3JumpFrog" />
-        <item itemvalue="Application.HouseRobberIi" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -259,6 +247,11 @@
           <url>file://$PROJECT_DIR$/src/com/DailyRandom/CanConvertString.java</url>
           <line>11</line>
           <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Sorting/BucketSort.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="52" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
