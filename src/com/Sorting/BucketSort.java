@@ -1,7 +1,5 @@
 package com.Sorting;
 
-import com.sun.org.apache.xerces.internal.impl.xs.util.XSInputSource;
-
 import java.util.*;
 
 public class BucketSort {
