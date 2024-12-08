@@ -5,60 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c208b86-9ed6-40f4-aebb-23ed7beabbcd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/DailyRandom/BurstBalloons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/DailyRandom/RobotCollisions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/GG/MaximumSubSeqOFKdistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arrays/ThreeSumMulti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarySearch/AggressiveCow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarySearch/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarySearch/BookAllocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarySearch/CapacityOfShipPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarySearch/CountOccurence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarySearch/FloorCeil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarySearch/HowManyTImeArrayIsSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarySearch/KokoEatBanana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarySearch/KthMissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarySearch/LastOccurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarySearch/LowerBound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarySearch/MinDaytoMakeMbouquet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarySearch/MinimumInRotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarySearch/NthRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarySearch/PeakElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarySearch/SearchInRotatedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarySearch/SearchSingleElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarySearch/SmallestDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarySearch/SplitArrayToLargestSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarySearch/SquareRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binarySearch/UpperBound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bitmanipulate/BitwiseANDofRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bitmanipulate/ConvertIntToBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bitmanipulate/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bitmanipulate/SingleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bitmanipulate/SingleNumberII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/maths/CountPrimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/maths/DistinctPrimeFactor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/maths/FindPOW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/maths/IsPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/maths/PascalTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/maths/PrimeArrangements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/maths/PrimePalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/maths/UniqueBinarySearchTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursion/CombinationIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursion/CountGoodNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursion/GenerateAllBinaryStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursion/GenerateStringWithLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursion/IsArraySorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursion/POW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursion/ReverseStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursion/SortStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursion/StringToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/recursion/TOH.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Sorting/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Sorting/BucketSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Sorting/BucketSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/en/HouseRobberIi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/editor/en/doc/content/HouseRobberIi.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dp/_1Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dp/_1Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dp/_2ClimbStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dp/_2ClimbStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dp/_3JumpFrog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dp/_3JumpFrog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dp/_4KJumpFrog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dp/_4KJumpFrog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dp/_5HouseRobber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dp/_5HouseRobber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dp/_6HouseRobberTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dp/_6HouseRobberTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dp/_7NinjaTraining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dp/_7NinjaTraining.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dp/_8UniquePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dp/_8UniquePath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dp/_9UniquePathTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dp/_9UniquePathTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,190 +50,212 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AccountMerge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AggressiveCow.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AlienDictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArmstrongNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BellmonFordAlgo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BipartiteGraph.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BitwiseANDofRange.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BookAllocation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BucketSort.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.BurstBalloons.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CanConvertString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CapacityOfShipPackage.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CheapestWithKstop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CheckIfArraysSorted.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Combination.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CombinationII.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CombinationIII.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.CommonClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountGoodNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountInversionsInArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountOccurence.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountPrimes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountSubArraySumK.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountSubArrayWithXORK.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountingSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CourseSchedule.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DetectCycle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DijkstraPQ.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DijkstraPQPath.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DijkstraSET.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DisjointAlgoCheck.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DistinctPrimeFactor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindCityWithSmallestNeighbor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindEventualSafeNode.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindFarmland.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindMinHeightTrees.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindPOW.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.FindRepeatAndMissingNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FloorCeil.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FloydWarshall.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FreedomTrail.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GenerateAllBinaryStr.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GenerateStringWithLength.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HeapSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HowManyTImeArrayIsSorted.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IsArraySorted.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IsCyclicDirectGraph.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IsPrime.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IslandParimeter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KahnAlgo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KokoEatBanana.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KrushalsAlgo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KthMissingNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KthPermutation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LargestElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LargestLocalValueMatrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LargestSubArraywithSumZero.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LastOccurance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeadersInArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LonegstSubarrayWithSumK.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestConsecutiveSeq.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestIdealString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestSubArrayAbsDiff.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestSubarrayWithSumK.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MajorityElement.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MajorityElementNby2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Maths.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxMonthsPnL.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxSubArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaximumProductSubArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaximumSubSeqOFKdistance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.McoloringProblem.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeOverLappingSubIntervals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeTwoSortedArraysWithoutExtraSpace.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinDaytoMakeMbouquet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinIncreamenttoMakeUnique.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinimumAbsDifference.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinimumFallingPathSum.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MinimumInRotateArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinimumNoofDaysToMakeBouquets.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinimumOperation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MostProfitAssignmentWork.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MoveZero.executor&quot;: &quot;Run&quot;,
-    &quot;Application.N_Queen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NextPermutation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NthRoot.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.NumberOfDistinctIsland.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberOfEnclaves.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberOfIslandII.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberOfOperationToMakeCon.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberOfProvince.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberOfWaysToDest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OpenLock.executor&quot;: &quot;Run&quot;,
-    &quot;Application.POW.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PascalTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PathWithMinimumEffort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Patterns.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PeakElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PelindromPartitioning.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Permutations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeArrangements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimePalindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimsAlgo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintSubSequence.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QueryKthSmallestTrimmedNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QuickSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RadixSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RatInMaze.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReArrangeArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RearrangeArrayElements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveDuplicateInPlace.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReversePairs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseStack.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseSubStringBWPair.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.RobotCollisions.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.RotateMatrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RotateMatrix90.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RotatedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SearchInRotatedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SearchSingleElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SecondLargestElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SetMatrixToZero.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ShortedPathInDAG.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ShortestPathInMaze.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ShortestPathInUG.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SingleNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SingleNumberII.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SingletonClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SmallestDivisor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortArrayZeroOneTwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortStack.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.SpiralTraversal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SplitArrayToLargestSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SquareRoot.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.StockBuyAndSell.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringToInt.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubArraySumDivibleByK.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubSequenceSumK.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubSetSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubSetSumII.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sudoku.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SurroundedRegions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TOH.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreeSumMulti.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.TopologicalSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UniqueBinarySearchTrees.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UpperBound.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ValidPath.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WonderfullSubstring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WordLadderI.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WorldLadderII.executor&quot;: &quot;Run&quot;,
-    &quot;Application.XOR.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application._2Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Application._3JumpFrog.executor&quot;: &quot;Run&quot;,
-    &quot;Application._3sum.executor&quot;: &quot;Run&quot;,
-    &quot;Application._4Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.maximumImportance.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Codever/DSA&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AccountMerge.executor": "Run",
+    "Application.AggressiveCow.executor": "Run",
+    "Application.AlienDictionary.executor": "Run",
+    "Application.ArmstrongNumber.executor": "Run",
+    "Application.BellmonFordAlgo.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
+    "Application.BipartiteGraph.executor": "Run",
+    "Application.BitwiseANDofRange.executor": "Run",
+    "Application.BookAllocation.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.BucketSort.executor": "Debug",
+    "Application.BurstBalloons.executor": "Run",
+    "Application.CanConvertString.executor": "Run",
+    "Application.CapacityOfShipPackage.executor": "Run",
+    "Application.CheapestWithKstop.executor": "Run",
+    "Application.CheckIfArraysSorted.executor": "Run",
+    "Application.ChocolateDistribution.executor": "Run",
+    "Application.Combination.executor": "Run",
+    "Application.CombinationII.executor": "Run",
+    "Application.CombinationIII.executor": "Debug",
+    "Application.CommonClass.executor": "Run",
+    "Application.ConvertToZigZag.executor": "Run",
+    "Application.CountGoodNumber.executor": "Run",
+    "Application.CountInversions.executor": "Run",
+    "Application.CountInversionsInArray.executor": "Run",
+    "Application.CountOccurence.executor": "Run",
+    "Application.CountPrimes.executor": "Run",
+    "Application.CountSubArraySumK.executor": "Run",
+    "Application.CountSubArrayWithXORK.executor": "Run",
+    "Application.CountTriplet.executor": "Run",
+    "Application.CountingSort.executor": "Run",
+    "Application.CourseSchedule.executor": "Run",
+    "Application.DetectCycle.executor": "Run",
+    "Application.DijkstraPQ.executor": "Run",
+    "Application.DijkstraPQPath.executor": "Run",
+    "Application.DijkstraSET.executor": "Run",
+    "Application.DisjointAlgoCheck.executor": "Run",
+    "Application.DistinctPrimeFactor.executor": "Run",
+    "Application.ElementWithSmallerAndLarger.executor": "Run",
+    "Application.EquilibriumPoint.executor": "Run",
+    "Application.FindCityWithSmallestNeighbor.executor": "Run",
+    "Application.FindEventualSafeNode.executor": "Run",
+    "Application.FindFarmland.executor": "Run",
+    "Application.FindMinHeightTrees.executor": "Run",
+    "Application.FindPOW.executor": "Debug",
+    "Application.FindRepeatAndMissingNumber.executor": "Run",
+    "Application.FloorCeil.executor": "Run",
+    "Application.FloydWarshall.executor": "Run",
+    "Application.FormLargestNumber.executor": "Run",
+    "Application.FreedomTrail.executor": "Run",
+    "Application.GenerateAllBinaryStr.executor": "Run",
+    "Application.GenerateStringWithLength.executor": "Run",
+    "Application.HeapSort.executor": "Run",
+    "Application.HowManyTImeArrayIsSorted.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
+    "Application.IsArraySorted.executor": "Run",
+    "Application.IsCyclicDirectGraph.executor": "Run",
+    "Application.IsPrime.executor": "Run",
+    "Application.IslandParimeter.executor": "Run",
+    "Application.KadanesAlgo.executor": "Run",
+    "Application.KahnAlgo.executor": "Run",
+    "Application.KokoEatBanana.executor": "Run",
+    "Application.KrushalsAlgo.executor": "Run",
+    "Application.KthMissingNumber.executor": "Run",
+    "Application.KthPermutation.executor": "Run",
+    "Application.KthSmallestElement.executor": "Run",
+    "Application.LargestElement.executor": "Run",
+    "Application.LargestLocalValueMatrix.executor": "Run",
+    "Application.LargestSubArraywithSumZero.executor": "Run",
+    "Application.LastIndex.executor": "Run",
+    "Application.LastOccurance.executor": "Run",
+    "Application.LeadersInArray.executor": "Run",
+    "Application.LonegstSubarrayWithSumK.executor": "Run",
+    "Application.LongestConsecutiveSeq.executor": "Run",
+    "Application.LongestIdealString.executor": "Run",
+    "Application.LongestSubArrayAbsDiff.executor": "Run",
+    "Application.LongestSubarrayWithSumK.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MajorityElement.executor": "Debug",
+    "Application.MajorityElementNby2.executor": "Run",
+    "Application.Maths.executor": "Run",
+    "Application.MaxMonthsPnL.executor": "Run",
+    "Application.MaxSubArray.executor": "Run",
+    "Application.MaximumProductSubArray.executor": "Run",
+    "Application.MaximumSubSeqOFKdistance.executor": "Run",
+    "Application.McoloringProblem.executor": "Run",
+    "Application.MergeArrays.executor": "Run",
+    "Application.MergeOverLappingSubIntervals.executor": "Run",
+    "Application.MergeSort.executor": "Run",
+    "Application.MergeTwoSortedArraysWithoutExtraSpace.executor": "Run",
+    "Application.MinDaytoMakeMbouquet.executor": "Run",
+    "Application.MinIncreamenttoMakeUnique.executor": "Run",
+    "Application.MinimumAbsDifference.executor": "Run",
+    "Application.MinimumFallingPathSum.executor": "Debug",
+    "Application.MinimumInRotateArray.executor": "Run",
+    "Application.MinimumNoofDaysToMakeBouquets.executor": "Run",
+    "Application.MinimumOperation.executor": "Run",
+    "Application.MissingElement.executor": "Run",
+    "Application.MostProfitAssignmentWork.executor": "Run",
+    "Application.MoveZero.executor": "Run",
+    "Application.N_Queen.executor": "Run",
+    "Application.NextPermutation.executor": "Run",
+    "Application.NthRoot.executor": "Debug",
+    "Application.NumberOfDistinctIsland.executor": "Run",
+    "Application.NumberOfEnclaves.executor": "Run",
+    "Application.NumberOfIslandII.executor": "Run",
+    "Application.NumberOfOperationToMakeCon.executor": "Run",
+    "Application.NumberOfPairs.executor": "Run",
+    "Application.NumberOfProvince.executor": "Run",
+    "Application.NumberOfWaysToDest.executor": "Run",
+    "Application.OpenLock.executor": "Run",
+    "Application.POW.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PascalTriangle.executor": "Run",
+    "Application.PathWithMinimumEffort.executor": "Run",
+    "Application.Patterns.executor": "Run",
+    "Application.PeakElement.executor": "Run",
+    "Application.PelindromPartitioning.executor": "Run",
+    "Application.Permutations.executor": "Run",
+    "Application.PrimeArrangements.executor": "Run",
+    "Application.PrimePalindrome.executor": "Run",
+    "Application.PrimsAlgo.executor": "Run",
+    "Application.PrintSubSequence.executor": "Run",
+    "Application.PythagoareanTriplet.executor": "Run",
+    "Application.QueryKthSmallestTrimmedNumber.executor": "Run",
+    "Application.QuickSort.executor": "Run",
+    "Application.RadixSort.executor": "Run",
+    "Application.RatInMaze.executor": "Run",
+    "Application.ReArrangeArray.executor": "Debug",
+    "Application.RearrangeArrayElements.executor": "Run",
+    "Application.RemoveDuplicateInPlace.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.ReverseArrayInGroup.executor": "Run",
+    "Application.ReversePairs.executor": "Run",
+    "Application.ReverseStack.executor": "Run",
+    "Application.ReverseSubStringBWPair.executor": "Debug",
+    "Application.RobotCollisions.executor": "Debug",
+    "Application.RotateMatrix.executor": "Run",
+    "Application.RotateMatrix90.executor": "Run",
+    "Application.RotatedArray.executor": "Run",
+    "Application.SearchInRotatedArray.executor": "Run",
+    "Application.SearchSingleElement.executor": "Run",
+    "Application.SecondLargestElement.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
+    "Application.SetMatrixToZero.executor": "Run",
+    "Application.ShortedPathInDAG.executor": "Run",
+    "Application.ShortestPathInMaze.executor": "Run",
+    "Application.ShortestPathInUG.executor": "Run",
+    "Application.SingleNumber.executor": "Run",
+    "Application.SingleNumberII.executor": "Run",
+    "Application.SingletonClass.executor": "Run",
+    "Application.SmallestDivisor.executor": "Run",
+    "Application.Sort0s1s2s.executor": "Run",
+    "Application.SortArrayZeroOneTwo.executor": "Run",
+    "Application.SortStack.executor": "Debug",
+    "Application.SpiralMatrix.executor": "Run",
+    "Application.SpiralTraversal.executor": "Run",
+    "Application.SplitArrayToLargestSum.executor": "Run",
+    "Application.SquareRoot.executor": "Debug",
+    "Application.StockBuyAndSell.executor": "Run",
+    "Application.StockBuySell.executor": "Run",
+    "Application.StringToInt.executor": "Run",
+    "Application.SubArraySumDivibleByK.executor": "Run",
+    "Application.SubSequenceSumK.executor": "Run",
+    "Application.SubSetSum.executor": "Run",
+    "Application.SubSetSumII.executor": "Run",
+    "Application.Sudoku.executor": "Run",
+    "Application.SurroundedRegions.executor": "Run",
+    "Application.TOH.executor": "Run",
+    "Application.ThreeSumMulti.executor": "Debug",
+    "Application.TopologicalSort.executor": "Run",
+    "Application.TrappingWater.executor": "Run",
+    "Application.UniqueBinarySearchTrees.executor": "Run",
+    "Application.UpperBound.executor": "Run",
+    "Application.ValidPath.executor": "Run",
+    "Application.WonderfullSubstring.executor": "Run",
+    "Application.WordLadderI.executor": "Run",
+    "Application.WorldLadderII.executor": "Run",
+    "Application.XOR.executor": "Run",
+    "Application._01_Matrix.executor": "Run",
+    "Application._2Sum.executor": "Run",
+    "Application._3JumpFrog.executor": "Run",
+    "Application._3sum.executor": "Run",
+    "Application._4Sum.executor": "Run",
+    "Application.maximumImportance.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Codever/DSA",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.dp" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.Sorting" />
       <recent name="com.graph" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MajorityElement">
+  <component name="RunManager">
     <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bitmanipulate.MajorityElement" />
       <module name="DSA" />
@@ -411,6 +390,11 @@
           <url>file://$PROJECT_DIR$/src/com/recursion/SortStack.java</url>
           <line>26</line>
           <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/track/arrays/ReArrangeArray.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="89" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

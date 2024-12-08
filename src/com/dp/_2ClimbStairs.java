@@ -1,4 +1,4 @@
-package dp.striver;
+package com.dp;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package dp.striver;
+package com.dp;
 
 public class _4KJumpFrog {
 
