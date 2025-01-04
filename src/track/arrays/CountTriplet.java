@@ -91,8 +91,6 @@ public class CountTriplet {
                     }
                     map.put(sum,set);
                 }
-
-
             }
         }
         return cnt;

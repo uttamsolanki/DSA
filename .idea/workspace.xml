@@ -6,16 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2c208b86-9ed6-40f4-aebb-23ed7beabbcd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dp/_1Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dp/_1Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dp/_2ClimbStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dp/_2ClimbStairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dp/_3JumpFrog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dp/_3JumpFrog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dp/_4KJumpFrog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dp/_4KJumpFrog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dp/_5HouseRobber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dp/_5HouseRobber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dp/_6HouseRobberTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dp/_6HouseRobberTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dp/_7NinjaTraining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dp/_7NinjaTraining.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dp/_8UniquePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dp/_8UniquePath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dp/_9UniquePathTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dp/_9UniquePathTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/track/arrays/CountTriplet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/track/arrays/CountTriplet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/track/linkedlist/_4InsertNode.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -64,6 +58,7 @@
     "Application.BubbleSort.executor": "Run",
     "Application.BucketSort.executor": "Debug",
     "Application.BurstBalloons.executor": "Run",
+    "Application.CLinkedList.executor": "Run",
     "Application.CanConvertString.executor": "Run",
     "Application.CapacityOfShipPackage.executor": "Run",
     "Application.CheapestWithKstop.executor": "Run",
@@ -90,6 +85,7 @@
     "Application.DijkstraSET.executor": "Run",
     "Application.DisjointAlgoCheck.executor": "Run",
     "Application.DistinctPrimeFactor.executor": "Run",
+    "Application.DoublyLinkedList.executor": "Run",
     "Application.ElementWithSmallerAndLarger.executor": "Run",
     "Application.EquilibriumPoint.executor": "Run",
     "Application.FindCityWithSmallestNeighbor.executor": "Run",
@@ -124,13 +120,14 @@
     "Application.LastIndex.executor": "Run",
     "Application.LastOccurance.executor": "Run",
     "Application.LeadersInArray.executor": "Run",
+    "Application.LinkedList.executor": "Run",
     "Application.LonegstSubarrayWithSumK.executor": "Run",
     "Application.LongestConsecutiveSeq.executor": "Run",
     "Application.LongestIdealString.executor": "Run",
     "Application.LongestSubArrayAbsDiff.executor": "Run",
     "Application.LongestSubarrayWithSumK.executor": "Run",
     "Application.Main.executor": "Run",
-    "Application.MajorityElement.executor": "Debug",
+    "Application.MajorityElement.executor": "Run",
     "Application.MajorityElementNby2.executor": "Run",
     "Application.Maths.executor": "Run",
     "Application.MaxMonthsPnL.executor": "Run",
@@ -142,6 +139,7 @@
     "Application.MergeOverLappingSubIntervals.executor": "Run",
     "Application.MergeSort.executor": "Run",
     "Application.MergeTwoSortedArraysWithoutExtraSpace.executor": "Run",
+    "Application.MiddleLinkedList.executor": "Run",
     "Application.MinDaytoMakeMbouquet.executor": "Run",
     "Application.MinIncreamenttoMakeUnique.executor": "Run",
     "Application.MinimumAbsDifference.executor": "Run",
@@ -152,6 +150,7 @@
     "Application.MissingElement.executor": "Run",
     "Application.MostProfitAssignmentWork.executor": "Run",
     "Application.MoveZero.executor": "Run",
+    "Application.NStackUsingArray.executor": "Debug",
     "Application.N_Queen.executor": "Run",
     "Application.NextPermutation.executor": "Run",
     "Application.NthRoot.executor": "Debug",
@@ -177,14 +176,21 @@
     "Application.PrintSubSequence.executor": "Run",
     "Application.PythagoareanTriplet.executor": "Run",
     "Application.QueryKthSmallestTrimmedNumber.executor": "Run",
+    "Application.QueueUsingArray.executor": "Run",
+    "Application.QueueUsingLL.executor": "Run",
+    "Application.QueueUsingStack.executor": "Run",
     "Application.QuickSort.executor": "Run",
     "Application.RadixSort.executor": "Run",
     "Application.RatInMaze.executor": "Run",
     "Application.ReArrangeArray.executor": "Debug",
     "Application.RearrangeArrayElements.executor": "Run",
     "Application.RemoveDuplicateInPlace.executor": "Run",
+    "Application.RemoveNthLastNode.executor": "Run",
+    "Application.ReplaceGreatestElement.executor": "Run",
     "Application.ReverseArray.executor": "Run",
     "Application.ReverseArrayInGroup.executor": "Run",
+    "Application.ReverseKBlock.executor": "Run",
+    "Application.ReverseLinkedList.executor": "Run",
     "Application.ReversePairs.executor": "Run",
     "Application.ReverseStack.executor": "Run",
     "Application.ReverseSubStringBWPair.executor": "Debug",
@@ -211,6 +217,11 @@
     "Application.SpiralTraversal.executor": "Run",
     "Application.SplitArrayToLargestSum.executor": "Run",
     "Application.SquareRoot.executor": "Debug",
+    "Application.StackUsingArray.executor": "Run",
+    "Application.StackUsingDynamicArray.executor": "Run",
+    "Application.StackUsingLL.executor": "Run",
+    "Application.StackUsingQueue.executor": "Run",
+    "Application.StackUsingTwoQueue.executor": "Run",
     "Application.StockBuyAndSell.executor": "Run",
     "Application.StockBuySell.executor": "Run",
     "Application.StringToInt.executor": "Run",
@@ -224,6 +235,7 @@
     "Application.ThreeSumMulti.executor": "Debug",
     "Application.TopologicalSort.executor": "Run",
     "Application.TrappingWater.executor": "Run",
+    "Application.TwoStackUsingArray.executor": "Debug",
     "Application.UniqueBinarySearchTrees.executor": "Run",
     "Application.UpperBound.executor": "Run",
     "Application.ValidPath.executor": "Run",
@@ -232,84 +244,64 @@
     "Application.WorldLadderII.executor": "Run",
     "Application.XOR.executor": "Run",
     "Application._01_Matrix.executor": "Run",
+    "Application._10MinStack.executor": "Run",
+    "Application._10SplitCLL.executor": "Run",
+    "Application._11CheckLLisPelindrom.executor": "Run",
+    "Application._11MinStackOptimized.executor": "Run",
+    "Application._12ReverseKBlock.executor": "Run",
+    "Application._12ReverseOfStack.executor": "Run",
+    "Application._13FindingSpan.executor": "Debug",
+    "Application._13MaxIndexDiff.executor": "Debug",
+    "Application._14OddEvenData.executor": "Run",
+    "Application._14StockSpan.executor": "Run",
+    "Application._15FindNthRootNode.executor": "Run",
+    "Application._15LargestRectangleArea.executor": "Run",
+    "Application._16AddTwoNumbers.executor": "Run",
+    "Application._16PairWiseConsecutive.executor": "Run",
+    "Application._17ReOrderLL.executor": "Run",
+    "Application._17RemoveAdjustDuplicate.executor": "Run",
+    "Application._1ReversingQueue.executor": "Run",
+    "Application._1ValidParantheses.executor": "Run",
+    "Application._2InfixToPostfix.executor": "Run",
+    "Application._2MaximumSum.executor": "Run",
     "Application._2Sum.executor": "Run",
+    "Application._3InterLeaving2Half.executor": "Run",
     "Application._3JumpFrog.executor": "Run",
+    "Application._3PostfixToInfix.executor": "Run",
     "Application._3sum.executor": "Run",
+    "Application._4InfixToPrefix.executor": "Run",
+    "Application._4InsertNode.executor": "Run",
     "Application._4Sum.executor": "Run",
+    "Application._5PrefixToInfix.executor": "Run",
+    "Application._6MiddleLinkedList.executor": "Run",
+    "Application._6PrefixToPostfix.executor": "Run",
+    "Application._7EvenOddLength.executor": "Run",
+    "Application._7PostfixToPrefix.executor": "Run",
+    "Application._8MergeTwoSortedLL.executor": "Run",
+    "Application._8PostfixEvalution.executor": "Run",
+    "Application._9InfixEvalution.executor": "Run",
+    "Application._9ReverseInPair.executor": "Run",
     "Application.maximumImportance.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "1.8",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Codever/DSA",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="track.queue" />
+      <recent name="track.stack" />
       <recent name="com.dp" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.Sorting" />
       <recent name="com.graph" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bitmanipulate.MajorityElement" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bitmanipulate.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bitmanipulate.SingleNumber" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bitmanipulate.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SingleNumberII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bitmanipulate.SingleNumberII" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bitmanipulate.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.MajorityElement" />
-        <item itemvalue="Application.SingleNumberII" />
-        <item itemvalue="Application.SingleNumber" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -392,9 +384,49 @@
           <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/track/arrays/ReArrangeArray.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="89" />
+          <url>file://$PROJECT_DIR$/src/track/linkedlist/_15FindNthRootNode.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/track/stack/_8PostfixEvalution.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/track/stack/_11MinStackOptimized.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/track/stack/implementation/TwoStackUsingArray.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/track/stack/_15LargestRectangleArea.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/track/stack/_15LargestRectangleArea.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/track/stack/_15LargestRectangleArea.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/track/stack/_17RemoveAdjustDuplicate.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/track/queue/implementation/QueueUsingArray.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="105" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
